@@ -1,3 +1,6 @@
 *.nii.gz
 *.pth
 .vscode
+brains.png
+dataset.json
+*.npy
